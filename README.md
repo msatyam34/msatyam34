@@ -20,31 +20,21 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 
-<a href="https://github.com/Vikram-Jha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikram-Jha&theme=light&hide_langs_below=1" />
+<a href="https://github.com/msatyam34">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msatyam34&theme=light&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Vikram-Jha">
-  <img align="left" alt="Vikram's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Vikram-Jha&show_icons=true&hide_border=true" />
+<a href="https://github.com/msatyam34">
+  <img align="left" alt="Satyam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=msatyam34&show_icons=true&hide_border=true" />
 </a>
   
-### Connect with me:
 
-[<img align="left" alt="Vikram Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Vikram Jha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vikram Jha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Vikram Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />][twitter]
-[<img align="left" alt="Vikram Jha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />][hackerrank]
 
-<br />
+
 
 ---
 
-[twitter]: https://mobile.twitter.com/vikram_jha15
-[instagram]: https://www.instagram.com/vikram_jha4
-[stackoverflow]: https://stackoverflow.com/users/15069593/vikram-jha
-[linkedin]: https://www.linkedin.com/in/vikram-jha-25a739146/
-[hackerrank]: https://www.hackerrank.com/vikramjha018?hr_r=1
+
 
 <div align="center">
 
