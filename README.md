@@ -1,10 +1,9 @@
 ## I'm a Student, Developer, and Teacher!!
 
-- 🔭 I’m currently working on Android Studios
+- 🔭 I’m currently working on Node.js
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on Android Studios
+- 👯 I’m looking to collaborate on Node.js
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 🤔 I’m looking for help in Machine Learning/Blockchain
 - 💬 Ask me about Anything
 - 😄 Pronouns: He/Him/Oye(Hindi Reference)
 
